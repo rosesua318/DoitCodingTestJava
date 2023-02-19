@@ -40,6 +40,6 @@ public class BestAlbum {
     }
 
     public static void main(String[] args) {
-        
+
     }
 }
